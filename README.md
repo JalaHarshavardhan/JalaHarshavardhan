@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JalaHarshavardhan
-- 👀 I’m interested in C programming and internships
-- 🌱 I’m currently learning C language
+- 👋 Hi, I’m @Harsha
+- 👀 I’m interested in C programming, python programming and internships
+- 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 9440982276(whatsapp)
 
