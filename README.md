@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harsha
 - 👀 I’m interested in C programming, python programming and internships
 - 🌱 I’m currently learning Java language
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me 9440982276(whatsapp)
 
 <!---
